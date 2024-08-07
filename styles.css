@@ -103,3 +103,9 @@ nav button{
     outline: 0;
     cursor: pointer;
 }
+
+.features{
+    padding: 50px 12%;
+    font-size: 22px;
+    
+}
