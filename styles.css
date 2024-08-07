@@ -51,11 +51,12 @@ nav button{
     background: transparent;
     border: 1px solid #fff;
     padding: 7px 10px;
+
 }
 
 .language-btn img{
     width: 10px;
-    margin-left: 10 px;
+    margin-left: 10px;
 }
 
 .header-content{
@@ -255,8 +256,8 @@ input[type= "radio"]{
 }
 
 .footer .language-btn img{
-    margin-left: 7px;
-    color: #fff;
+    width: 10px;
+    margin-left: 10px;
 }
 
 .copy-text{
